@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ace-modules/ace-admin/ace-admin.iml" filepath="$PROJECT_DIR$/ace-modules/ace-admin/ace-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-api/ace-api.iml" filepath="$PROJECT_DIR$/ace-api/ace-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-dev-base/ace-auth-sdk/ace-auth-sdk.iml" filepath="$PROJECT_DIR$/ace-dev-base/ace-auth-sdk/ace-auth-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-dev-base/ace-common/ace-common.iml" filepath="$PROJECT_DIR$/ace-dev-base/ace-common/ace-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-control/ace-control.iml" filepath="$PROJECT_DIR$/ace-control/ace-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-dev-base/ace-dev-base.iml" filepath="$PROJECT_DIR$/ace-dev-base/ace-dev-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-gate/ace-gate.iml" filepath="$PROJECT_DIR$/ace-gate/ace-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-modules/ace-modules.iml" filepath="$PROJECT_DIR$/ace-modules/ace-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-control/ace-monitor/ace-monitor.iml" filepath="$PROJECT_DIR$/ace-control/ace-monitor/ace-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security.iml" filepath="$PROJECT_DIR$/ace-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-modules/ace-tool/ace-tool.iml" filepath="$PROJECT_DIR$/ace-modules/ace-tool/ace-tool.iml" />
+    </modules>
+  </component>
+</project>
